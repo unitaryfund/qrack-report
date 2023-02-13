@@ -1,0 +1,2896 @@
+Random Seed: 1676223653 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 0.999999
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 3.03222e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 0.00179909
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.0152128
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 0.0438215
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 0.000580028
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 0.00154197
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.00181435
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 0.000937178
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.0144961
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 0.0115038
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.0077307
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.00384508
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 1.18645e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 1.70283e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 6.10711e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 3.37601e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.0257708
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.0882396
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.0525408
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.0317839
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.081878
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.109167
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.0810297
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676223653
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676223669 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 3.03222e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 0.000484559
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.00290966
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 0.00248013
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 0.00172254
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 0.00149479
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.000208037
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 5.38335e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 7.66223e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 3.70896e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 5.59419e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 1.45852e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 4.20509e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.000492045
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.00126656
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.000542253
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 2.5453e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 9.13899e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.000177841
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.0012534
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.0142132
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.0400091
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.0950183
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.0307584
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.0260362
+(Sigmoid-adjusted) fidelity for SDRP=0.35: 0.0982497
+(Sigmoid-adjusted) fidelity for SDRP=0.325: 0.055114
+(Sigmoid-adjusted) fidelity for SDRP=0.3: 0.0579354
+(Sigmoid-adjusted) fidelity for SDRP=0.275: 0.0776498
+(Sigmoid-adjusted) fidelity for SDRP=0.25: 0.046457
+(Sigmoid-adjusted) fidelity for SDRP=0.225: 0.0501024
+(Sigmoid-adjusted) fidelity for SDRP=0.2: 0.0993974
+(Sigmoid-adjusted) fidelity for SDRP=0.175: 0.139421
+(Sigmoid-adjusted) fidelity for SDRP=0.15: 0.612226
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676223669
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676223712 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 1.91594e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 0.000138009
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.0016787
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 0.000253492
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 1.68944e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 0.000182969
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.00392167
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 0.000245889
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.000447356
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 0.000718351
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.0208754
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.000669373
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.0505304
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.00363467
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.000807014
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.0130914
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.0132691
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.0589374
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.00644145
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.036537
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.00933438
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.0268469
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.0806229
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.0407806
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.0882981
+(Sigmoid-adjusted) fidelity for SDRP=0.35: 0.108399
+(Sigmoid-adjusted) fidelity for SDRP=0.325: 0.0861404
+(Sigmoid-adjusted) fidelity for SDRP=0.3: 0.0602601
+(Sigmoid-adjusted) fidelity for SDRP=0.275: 0.0826808
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676223712
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676223715 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 3.01256e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 4.61792e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 6.42356e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 4.81192e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 1.99877e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 4.14683e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 2.01017e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 1.66603e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 1.4632e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 4.03691e-10
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 1.95919e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 2.49003e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 5.76447e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 1.42042e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 5.63872e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 1.01591e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 2.79566e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.00606377
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 1.62751e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.0924017
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.000624075
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.00105071
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.00721108
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676223715
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676223738 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 2.81784e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 0.000404755
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 1.65262e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 4.79945e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 2.69778e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 2.97103e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 2.9709e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 3.66131e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 1.25918e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 7.24909e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.00149272
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 8.89353e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 3.58368e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 2.9344e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 4.41524e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 7.48914e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.0120296
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.00136135
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.0184869
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.0607646
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.0406364
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.0543371
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.028971
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.0075922
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.0030768
+(Sigmoid-adjusted) fidelity for SDRP=0.35: 0.0963444
+(Sigmoid-adjusted) fidelity for SDRP=0.325: 0.13776
+(Sigmoid-adjusted) fidelity for SDRP=0.3: 0.291992
+(Sigmoid-adjusted) fidelity for SDRP=0.275: 0.204192
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676223738
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676223756 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 2.90467e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 0.00162584
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 8.42136e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 0.000141266
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 0.000253026
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 0.00122222
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.00119225
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 6.14326e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 1.27414e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 1.28428e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 4.08534e-11
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 7.11046e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 1.73357e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 9.60211e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 8.52734e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.000141863
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.00440241
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.0231882
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.0228745
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.00156395
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.000124993
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.00544072
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.00159314
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.0796692
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676223756
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  VRAM limits exceeded in QEngineOCL::AddAlloc()
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676223771 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 1.60581e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 1.85866e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 5.83571e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 3.29506e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 7.61763e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 4.5018e-11
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 3.10063e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 1.02365e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 1.827e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 1.05722e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 1.01303e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.000152275
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.0117942
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.00151268
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.0150593
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.0231138
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.00781576
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.0107773
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.0264693
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.000663348
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.000186789
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.00802008
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676223771
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  VRAM limits exceeded in QEngineOCL::AddAlloc()
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676223775 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 3.03222e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 0.0016408
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.0138744
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 3.48172e-14
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 5.47344e-11
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 5.44176e-11
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 1.95668e-11
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 7.01565e-13
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.000144872
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 0.000133025
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.00314675
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.00161645
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.00534076
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 1.72747e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 9.69043e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.0401905
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.00260645
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.00290113
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.0021118
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.0507781
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.019335
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.0978889
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.0929702
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.0739033
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.0794604
+(Sigmoid-adjusted) fidelity for SDRP=0.35: 0.0623387
+(Sigmoid-adjusted) fidelity for SDRP=0.325: 0.056591
+(Sigmoid-adjusted) fidelity for SDRP=0.3: 0.0493521
+(Sigmoid-adjusted) fidelity for SDRP=0.275: 0.0653039
+(Sigmoid-adjusted) fidelity for SDRP=0.25: 0.0574521
+(Sigmoid-adjusted) fidelity for SDRP=0.225: 0.126586
+(Sigmoid-adjusted) fidelity for SDRP=0.2: 0.0744099
+(Sigmoid-adjusted) fidelity for SDRP=0.175: 0.368873
+(Sigmoid-adjusted) fidelity for SDRP=0.15: 0.264712
+(Sigmoid-adjusted) fidelity for SDRP=0.125: 0.351543
+(Sigmoid-adjusted) fidelity for SDRP=0.1: 0.618538
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676223775
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676223782 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 3.03222e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 2.09561e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 1.67445e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 3.48693e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 7.26223e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 6.70913e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 3.63641e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 0.0206667
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.012344
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 0.00480683
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.000688544
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 1.43528e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.000301352
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.00259869
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.00172404
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.0899769
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.00580944
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.00771707
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.0089576
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.00558272
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.0148188
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.0191775
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.0343648
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.0685327
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676223782
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  VRAM limits exceeded in QEngineOCL::AddAlloc()
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676223803 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 3.03223e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 0.00161921
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.00960208
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 0.00626415
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 0.00817351
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 0.00772537
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.000650966
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 0.000300482
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.000549458
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 0.0330195
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.0056809
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.0036776
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.010086
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.000395543
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 9.30456e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.00797397
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.113252
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.0572929
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.088825
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.0561733
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.111489
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.112254
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.0507288
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.102036
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676223803
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676223853 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 1.96568e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 0.000178373
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 8.82027e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 5.3871e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 0.000182285
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 0.0001677
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.000254197
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 0.00129015
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 3.63381e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 1.61618e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 4.69291e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 3.09048e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 5.90736e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 5.22189e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.00346793
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.0165339
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.00286423
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.000575288
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676223853
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676223854 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 0.999999
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 2.79445e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 0.00150013
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.0121781
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 1.35313e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 0.00755647
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 5.9786e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 5.16732e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 3.44784e-10
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 8.50376e-13
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 0.00220561
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.000179683
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 8.51653e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.000961839
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 7.6017e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 7.15291e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.0020136
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.00013509
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.00153606
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.00127391
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.00267658
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.0429805
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.115127
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.0856662
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.0720323
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.091006
+(Sigmoid-adjusted) fidelity for SDRP=0.35: 0.0855129
+(Sigmoid-adjusted) fidelity for SDRP=0.325: 0.151582
+(Sigmoid-adjusted) fidelity for SDRP=0.3: 0.196772
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676223854
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676223869 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 0.999999
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 1.10255e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 1.46362e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 5.22097e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 1.32983e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 5.79746e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 3.3171e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.000466769
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 0.00565751
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.00912612
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 1.11503e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.00102112
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.00190142
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.0189384
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.000291046
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 5.26826e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 1.84519e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.0755538
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.00456576
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.0307384
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.0662154
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.00331548
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.00409772
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 6.74905e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.092893
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.00735279
+(Sigmoid-adjusted) fidelity for SDRP=0.35: 0.0213733
+(Sigmoid-adjusted) fidelity for SDRP=0.325: 0.0940888
+(Sigmoid-adjusted) fidelity for SDRP=0.3: 0.143719
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676223869
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676223871 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 5.91232e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 4.02662e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 3.03028e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 2.85984e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 1.01875e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 1.7856e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.000507326
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 1.10449e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 3.4721e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 8.44281e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 1.61359e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.000135099
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.00649259
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.00197675
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.00145722
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.000617668
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 8.4177e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.00181764
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.002503
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.00196392
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.000431912
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.000706648
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.00124372
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.00126812
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.000209905
+(Sigmoid-adjusted) fidelity for SDRP=0.35: 0.000139683
+(Sigmoid-adjusted) fidelity for SDRP=0.325: 0.00142868
+(Sigmoid-adjusted) fidelity for SDRP=0.3: 0.0156324
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676223871
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676223873 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 5.43469e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 7.56655e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 4.33195e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 1.41698e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 6.58455e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 2.96491e-11
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 2.70385e-12
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 5.08426e-10
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 2.16868e-10
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 1.65406e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 1.67965e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 5.35677e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 1.444e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 2.46916e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.000729176
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.00181059
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676223873
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676223878 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 1.33742e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 4.24549e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.000276448
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 1.16488e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 3.73905e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 3.62907e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 8.41299e-12
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 0.000103185
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.000729561
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 0.00146574
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.000531014
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.000421319
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.000114718
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.021795
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.0106154
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.00221497
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 6.33591e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.0199984
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.000738936
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.0748106
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.00507645
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.0710644
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.0372843
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.0354171
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.0242114
+(Sigmoid-adjusted) fidelity for SDRP=0.35: 0.0856002
+(Sigmoid-adjusted) fidelity for SDRP=0.325: 0.0956679
+(Sigmoid-adjusted) fidelity for SDRP=0.3: 0.0924629
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676223878
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676223958 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 2.17812e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 6.37871e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.000539373
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 1.91708e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 1.19984e-13
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 2.02352e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 4.08078e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 0.0117288
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.0150154
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 8.82514e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.00116482
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.00569476
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.0144436
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.00132711
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.000182678
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.000536606
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.00933712
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.00143254
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.00989333
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.00842428
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676223958
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  VRAM limits exceeded in QEngineOCL::AddAlloc()
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676223962 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 3.03222e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 0.00122556
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.00958481
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 0.000572308
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 0.00026187
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 0.0245598
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.0310838
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 0.00375214
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.00898762
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 0.00852654
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.0283437
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.000207221
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 1.11737e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 1.07469e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.00556497
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.00152088
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.00150355
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.00908126
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.0225727
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.00650522
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.0940633
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.0541986
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.0521747
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.11059
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.112775
+(Sigmoid-adjusted) fidelity for SDRP=0.35: 0.105679
+(Sigmoid-adjusted) fidelity for SDRP=0.325: 0.0611922
+(Sigmoid-adjusted) fidelity for SDRP=0.3: 0.272407
+(Sigmoid-adjusted) fidelity for SDRP=0.275: 0.283471
+(Sigmoid-adjusted) fidelity for SDRP=0.25: 0.21175
+(Sigmoid-adjusted) fidelity for SDRP=0.225: 0.1777
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676223962
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676223965 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 7.26191e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 5.0789e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 1.90689e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 0.000254434
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 0.000148461
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 1.51287e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 9.36141e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 3.93874e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 6.69258e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 1.40933e-06
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676223965
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676223967 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 2.48107e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 7.36779e-10
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 3.77108e-11
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 2.67269e-11
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 0.0226048
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 5.46405e-10
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 1.31282e-11
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 2.34257e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 4.09471e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 9.76738e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.000190922
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.00384303
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.000521799
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 2.37018e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.000158712
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 7.41437e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 1.75152e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.000567823
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.000383902
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.000556134
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.0792321
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.0768943
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.0959614
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.0200483
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676223967
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  VRAM limits exceeded in QEngineOCL::AddAlloc()
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676223972 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 7.29086e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 0.000965596
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.000364735
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 0.000160174
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 0.000544219
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 0.000108744
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 7.96892e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 5.86128e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.000188323
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 9.55503e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 2.3756e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.000146169
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 1.03109e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.00462557
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.0260888
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.0059488
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.00793438
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.0165431
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.0244673
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.108488
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.106142
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.112696
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.0339763
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.0125694
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.0304566
+(Sigmoid-adjusted) fidelity for SDRP=0.35: 0.14004
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676223972
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676223987 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 1.27292e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 1.89843e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 4.38566e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 3.93192e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 1.2704e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 0.000268422
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.00046221
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 6.99024e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.000355783
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 2.88825e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.00064165
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.00032941
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.00302841
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.000784213
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.00174069
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.000263324
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.00020635
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.0105807
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.000958329
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.00356679
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.0323567
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676223987
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224011 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 3.0099e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 1.73076e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.00014635
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 5.71154e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 5.53164e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 7.19636e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.000666437
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 3.56221e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 2.75613e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 3.82712e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 8.77323e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 9.57767e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 8.91031e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.00819581
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.0123178
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.0185322
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.0950997
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.0161026
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.0125383
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224011
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224021 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 2.81776e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 0.00133016
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.00157141
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 0.00452652
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 0.000234012
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 2.64507e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.000968522
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 6.31788e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.000115244
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 1.91383e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 1.13119e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.00117185
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.0025358
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 2.84553e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.000246344
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 4.33264e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.00369973
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.0108912
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.024813
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.0106313
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.00503735
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.0572251
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.105354
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224021
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224050 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 2.4001e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 4.57702e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 3.07264e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 0.000621178
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 9.52915e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 2.01914e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.000455124
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 0.00136069
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 8.70656e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 6.54927e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 1.54526e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.00121947
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.000103517
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 8.34393e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 5.99677e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.000224434
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.000233454
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.000714686
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.000378793
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.00700341
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.0183737
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.0243493
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224050
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224052 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 2.94603e-10
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 4.30247e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.000907027
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 4.25112e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 0.000575517
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 0.0012965
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 6.43417e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 1.30175e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 7.54905e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 7.09501e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 1.35022e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 8.39005e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.000200894
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 5.63584e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.000469178
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.000150219
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 7.07336e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.000816607
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.0131371
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.00329905
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.0138135
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.000703055
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.00762967
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.0217302
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.0345702
+(Sigmoid-adjusted) fidelity for SDRP=0.35: 0.0626353
+(Sigmoid-adjusted) fidelity for SDRP=0.325: 0.0854633
+(Sigmoid-adjusted) fidelity for SDRP=0.3: 0.0794726
+(Sigmoid-adjusted) fidelity for SDRP=0.275: 0.252399
+(Sigmoid-adjusted) fidelity for SDRP=0.25: 0.26234
+(Sigmoid-adjusted) fidelity for SDRP=0.225: 0.27509
+(Sigmoid-adjusted) fidelity for SDRP=0.2: 0.194007
+(Sigmoid-adjusted) fidelity for SDRP=0.175: 0.324445
+(Sigmoid-adjusted) fidelity for SDRP=0.15: 0.450842
+(Sigmoid-adjusted) fidelity for SDRP=0.125: 0.42179
+(Sigmoid-adjusted) fidelity for SDRP=0.1: 0.807191
+(Sigmoid-adjusted) fidelity for SDRP=0.075: 0.73936
+(Sigmoid-adjusted) fidelity for SDRP=0.05: 0.937212
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224052
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224055 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 5.81989e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 2.80814e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.00104248
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 0.0168757
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 0.0314601
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 0.0238905
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.0251167
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 0.000382296
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.00538563
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 0.0573632
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.000819164
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.000502943
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.000502215
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.000170802
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.000137875
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 6.39379e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.000110887
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.00099204
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.0480268
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.0037157
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.0426108
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.00557153
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.00226559
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.0189211
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.0832228
+(Sigmoid-adjusted) fidelity for SDRP=0.35: 0.06234
+(Sigmoid-adjusted) fidelity for SDRP=0.325: 0.0820912
+(Sigmoid-adjusted) fidelity for SDRP=0.3: 0.0324322
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224055
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  VRAM limits exceeded in QEngineOCL::AddAlloc()
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224059 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 0.999999
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 3.03222e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 7.17061e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 7.49647e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 5.10078e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 3.3534e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 0.000777679
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 1.03539e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 5.00001e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.00656765
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 0.0130244
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 1.76587e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 9.01415e-10
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 9.91961e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 2.65305e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.00228525
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.0015899
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 2.69679e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 3.04035e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 8.30405e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 1.33674e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.000147992
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.0123899
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.0174564
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224059
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224072 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 1.44127e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 5.31045e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 1.27129e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 0.000620951
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 7.47535e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 0.0139108
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.000912486
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 0.00161937
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.0160293
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 0.0146679
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.0352278
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.000867677
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.00136429
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 2.18659e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.0292602
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.0002233
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 1.95912e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.00749521
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.036453
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.00838658
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.00665071
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.0801236
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.016241
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.00010121
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224072
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224083 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 8.22859e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 1.9317e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.000192591
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 0.000413192
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 0.00108779
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 0.00178199
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 8.8386e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 2.02458e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 2.72068e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 2.31865e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 4.49977e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 5.45914e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 4.06998e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 9.96117e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 3.88581e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 4.88814e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 1.61695e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 1.90625e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.000287182
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.00428017
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.0388995
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.0247433
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.0404132
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.0462866
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.0513016
+(Sigmoid-adjusted) fidelity for SDRP=0.35: 0.126727
+(Sigmoid-adjusted) fidelity for SDRP=0.325: 0.227356
+(Sigmoid-adjusted) fidelity for SDRP=0.3: 0.295771
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224083
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224085 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 2.40954e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 0.00143667
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 1.33106e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 5.20834e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 2.87652e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 1.1561e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 1.44865e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 2.26224e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 2.11571e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 0.00408052
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.00499351
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 1.77383e-10
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 4.39691e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 4.31123e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 9.38917e-10
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.027678
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.00173636
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.00111263
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.0368504
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.00561478
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.11492
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.0355484
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.117879
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.0625358
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224085
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224105 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 6.59763e-11
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 2.01924e-11
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 2.15344e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 1.67068e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 1.60137e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 1.13669e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 7.30527e-11
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 1.33531e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 6.70737e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 0.00191175
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.000198685
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.00844444
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.000485117
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.000167824
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.000947344
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.000413597
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.0109372
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.00910187
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.0204375
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.0245118
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.00243705
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224105
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224149 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 3.03222e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 0.00138261
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.0116911
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 8.0732e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 1.18165e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 0.0204904
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 1.80578e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 2.39872e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 1.56113e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 0.0231495
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.0183902
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.00040202
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 3.22097e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 8.30488e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 1.64971e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 3.87982e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.000103707
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.000141049
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 3.38578e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.0122848
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.010172
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.00147586
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.0483502
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.0572542
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.00444912
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224149
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  VRAM limits exceeded in QEngineOCL::AddAlloc()
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224170 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 6.3709e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 2.45766e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.000122727
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 2.2865e-12
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 1.45732e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 4.74009e-13
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 3.08511e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 6.4089e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 1.00014e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 5.08096e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 2.2085e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 2.4543e-10
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 1.95703e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 1.40877e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.00116821
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.0132202
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 5.36949e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.00131555
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 9.05629e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.000108075
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.00158764
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.00171781
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.0667588
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.0302961
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.10401
+(Sigmoid-adjusted) fidelity for SDRP=0.35: 0.0380859
+(Sigmoid-adjusted) fidelity for SDRP=0.325: 0.0768046
+(Sigmoid-adjusted) fidelity for SDRP=0.3: 0.100677
+(Sigmoid-adjusted) fidelity for SDRP=0.275: 0.146854
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224170
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224189 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 3.03222e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 0.00180795
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.0130698
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 0.000387279
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 8.45923e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 0.000468961
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.00808097
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 0.00594949
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.000263371
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 0.000161541
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.00136954
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 7.24499e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.0136354
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 1.77115e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.00027243
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.00747139
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.000171951
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.0196774
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.00713306
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.0175075
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.00708363
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.0102687
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.0188992
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.0205647
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.0811889
+(Sigmoid-adjusted) fidelity for SDRP=0.35: 0.0238102
+(Sigmoid-adjusted) fidelity for SDRP=0.325: 0.0848306
+(Sigmoid-adjusted) fidelity for SDRP=0.3: 0.0926684
+(Sigmoid-adjusted) fidelity for SDRP=0.275: 0.122489
+(Sigmoid-adjusted) fidelity for SDRP=0.25: 0.144242
+(Sigmoid-adjusted) fidelity for SDRP=0.225: 0.284771
+(Sigmoid-adjusted) fidelity for SDRP=0.2: 0.366362
+(Sigmoid-adjusted) fidelity for SDRP=0.175: 0.358397
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224189
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224516 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 1.99213e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 1.3493e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 3.82491e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 6.63924e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 7.54388e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 1.1412e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.0275265
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 2.70003e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 2.83375e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 0.000296935
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.00134429
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.0889065
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.0736989
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.0767254
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.105224
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.0224809
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.0391133
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.0438037
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 1.55068e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.000580254
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.000939383
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.0769699
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.00702405
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.00148325
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.000355521
+(Sigmoid-adjusted) fidelity for SDRP=0.35: 0.000597509
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224516
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224520 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 2.33822e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 0.00139358
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.00875842
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 0.0211689
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 1.63163e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 0.0138144
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.00747918
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 0.0459114
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.062334
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 1.29412e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.0181524
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.00122251
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 5.03204e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.00470077
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.0214892
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.000784099
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.00369735
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 9.49411e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.000441348
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.0157546
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.00131116
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.00990163
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224520
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224522 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 1.67908e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 3.99717e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 4.02589e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 3.51995e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 8.5231e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 1.32472e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 1.06843e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 4.0034e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 2.34123e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 2.48546e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 1.64256e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 9.8362e-10
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 4.96071e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.000120978
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.000816125
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.00495878
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.000661849
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.00470014
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.0226531
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.00189074
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.0871434
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.0879642
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.0564236
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.16975
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.10671
+(Sigmoid-adjusted) fidelity for SDRP=0.35: 0.0925548
+(Sigmoid-adjusted) fidelity for SDRP=0.325: 0.0968645
+(Sigmoid-adjusted) fidelity for SDRP=0.3: 0.10635
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224522
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  VRAM limits exceeded in QEngineOCL::AddAlloc()
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224553 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 1.19087e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 5.61342e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.000453336
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 3.07854e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 4.92735e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 4.15658e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 7.99259e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 5.41501e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.000342959
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 1.87613e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 6.38661e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 1.65882e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.0046564
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.00147132
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 1.95703e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.00680961
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 2.33731e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.00131699
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.00280981
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.00558011
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.00784653
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224553
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224559 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 5.51336e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 4.8292e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.000562279
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 0.00134601
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 0.00164429
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 0.00789625
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.0082708
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 0.0613093
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.0275758
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 0.0145458
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 3.34401e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.0180547
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 1.23686e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.000772768
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 1.08245e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.000269661
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.0277496
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.0003943
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 4.57453e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.000635895
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.0134099
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.00160596
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.00554616
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.0143064
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224559
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224561 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 3.98399e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 6.46799e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.00456815
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 0.000374982
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 0.000534282
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 8.54402e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.000500512
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 0.00170943
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.00553861
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 0.00448078
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 7.10767e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 3.53275e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 7.02581e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.00312131
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.00155904
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.00446035
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.00473825
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.00495586
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.0135707
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.0915292
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 1.03397e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.00611278
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 7.94333e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.104692
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.0126053
+(Sigmoid-adjusted) fidelity for SDRP=0.35: 0.0757655
+(Sigmoid-adjusted) fidelity for SDRP=0.325: 0.0168827
+(Sigmoid-adjusted) fidelity for SDRP=0.3: 0.0631314
+(Sigmoid-adjusted) fidelity for SDRP=0.275: 0.0720747
+(Sigmoid-adjusted) fidelity for SDRP=0.25: 0.0431741
+(Sigmoid-adjusted) fidelity for SDRP=0.225: 0.048606
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224561
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224582 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 2.75721e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 0.00164397
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 2.11916e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 7.1417e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 0.000815358
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 0.00211796
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.000118292
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 1.47268e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 9.7385e-11
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 6.55312e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 1.99358e-10
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 1.06727e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 4.52147e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.0110579
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.0032111
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.00650711
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.053607
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.0354801
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.0174456
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.0371187
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.0439587
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.0590993
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.0775805
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.0412987
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.0939229
+(Sigmoid-adjusted) fidelity for SDRP=0.35: 0.106421
+(Sigmoid-adjusted) fidelity for SDRP=0.325: 0.123213
+(Sigmoid-adjusted) fidelity for SDRP=0.3: 0.148969
+(Sigmoid-adjusted) fidelity for SDRP=0.275: 0.309623
+(Sigmoid-adjusted) fidelity for SDRP=0.25: 0.301259
+(Sigmoid-adjusted) fidelity for SDRP=0.225: 0.414743
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224582
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  VRAM limits exceeded in QEngineOCL::AddAlloc()
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224611 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 1.87333e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 0.000263854
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.00348508
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 5.19681e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 7.41757e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 0.000155501
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.000217906
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 0.000501474
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 3.60411e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 3.14566e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.000266203
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.000170538
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.000119596
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 5.72369e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.00266951
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.000767665
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.00113403
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.0449161
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.0417551
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.0276226
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224611
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  VRAM limits exceeded in QEngineOCL::AddAlloc()
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224616 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 3.03222e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 7.20433e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.000280711
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 6.53232e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 0.0013028
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 0.0013492
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 1.65796e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 0.0051668
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.000813686
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 0.00610063
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.0295392
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.0146453
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.00521712
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.000712781
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.0114848
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.00134613
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224616
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224628 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 2.34526e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 0.000132148
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.000296479
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 4.238e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 3.72587e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 4.65351e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 1.61334e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 0.018273
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.000131462
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 2.97423e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.000167698
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 4.54332e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.00675568
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 2.06714e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.00142025
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 6.42088e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.00263767
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.0019627
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.011668
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224628
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224630 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 5.2269e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 5.67714e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 4.68112e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 8.814e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 5.73176e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 7.76629e-10
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 9.23594e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 6.9778e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.000105646
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 8.88817e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 2.29982e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.000156919
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 4.1726e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 4.79999e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.00129296
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.0174236
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.00294702
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.000307083
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 9.78139e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 4.86481e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 6.93365e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 4.62242e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 7.2272e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.000780508
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224630
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224632 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 2.61884e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 4.25426e-11
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 6.4903e-13
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 1.56672e-12
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 2.68979e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 8.68634e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 1.64727e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 6.10613e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.000330449
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 0.000122283
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 9.8989e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.000118827
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.0001659
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 1.20986e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 1.45989e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 4.55925e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.0166342
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.000239
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.0165156
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.0604502
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.00818479
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.0321205
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.00823945
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.0123801
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.0149786
+(Sigmoid-adjusted) fidelity for SDRP=0.35: 0.0795311
+(Sigmoid-adjusted) fidelity for SDRP=0.325: 0.0554006
+(Sigmoid-adjusted) fidelity for SDRP=0.3: 0.0427363
+(Sigmoid-adjusted) fidelity for SDRP=0.275: 0.268385
+(Sigmoid-adjusted) fidelity for SDRP=0.25: 0.18169
+(Sigmoid-adjusted) fidelity for SDRP=0.225: 0.0935745
+(Sigmoid-adjusted) fidelity for SDRP=0.2: 0.170558
+(Sigmoid-adjusted) fidelity for SDRP=0.175: 0.312419
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224632
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  VRAM limits exceeded in QEngineOCL::AddAlloc()
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224644 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 5.71475e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 0.00031398
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 0.00297441
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 0.0068986
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 1.48933e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 5.31613e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.00223259
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 0.0177699
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.00306948
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 0.00350973
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 0.000834369
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.00141859
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 1.51048e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 1.48954e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 2.18403e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.0248981
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.0516064
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.0772576
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.0827148
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.0360122
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.0028694
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.0680311
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.0527606
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.0685954
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.0404339
+(Sigmoid-adjusted) fidelity for SDRP=0.35: 0.0146947
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224644
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224669 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 3.20981e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 0.000527526
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 4.98334e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 2.04678e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 8.82997e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 9.02384e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 4.76376e-08
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 2.23522e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 2.23267e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 1.44994e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 1.17873e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 1.79163e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 2.1708e-09
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 1.43751e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 1.05129e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.000182187
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.000107302
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.00224898
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.00150084
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.0212588
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.00792617
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.00428412
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.00433371
+(Sigmoid-adjusted) fidelity for SDRP=0.4: 0.0191357
+(Sigmoid-adjusted) fidelity for SDRP=0.375: 0.0873443
+(Sigmoid-adjusted) fidelity for SDRP=0.35: 0.0399743
+(Sigmoid-adjusted) fidelity for SDRP=0.325: 0.0961774
+(Sigmoid-adjusted) fidelity for SDRP=0.3: 0.0936256
+(Sigmoid-adjusted) fidelity for SDRP=0.275: 0.0729609
+(Sigmoid-adjusted) fidelity for SDRP=0.25: 0.140803
+(Sigmoid-adjusted) fidelity for SDRP=0.225: 0.122879
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224669
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  VRAM limits exceeded in QEngineOCL::AddAlloc()
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1676224685 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnitMulti/QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_mirror
+>>> 'test_noisy_fidelity_2qb_nn_mirror':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 7
+(Sigmoid-adjusted) fidelity for SDRP=1: 1
+(Sigmoid-adjusted) fidelity for SDRP=0.975: 1.45789e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.95: 0.000402783
+(Sigmoid-adjusted) fidelity for SDRP=0.925: 1.99913e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.9: 2.01709e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.875: 6.96671e-07
+(Sigmoid-adjusted) fidelity for SDRP=0.85: 1.33706e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.825: 0.00491051
+(Sigmoid-adjusted) fidelity for SDRP=0.8: 0.000167004
+(Sigmoid-adjusted) fidelity for SDRP=0.775: 0.00595934
+(Sigmoid-adjusted) fidelity for SDRP=0.75: 5.81246e-06
+(Sigmoid-adjusted) fidelity for SDRP=0.725: 7.9755e-05
+(Sigmoid-adjusted) fidelity for SDRP=0.7: 0.000138643
+(Sigmoid-adjusted) fidelity for SDRP=0.675: 0.000816446
+(Sigmoid-adjusted) fidelity for SDRP=0.65: 0.000109635
+(Sigmoid-adjusted) fidelity for SDRP=0.625: 0.000243309
+(Sigmoid-adjusted) fidelity for SDRP=0.6: 0.0210628
+(Sigmoid-adjusted) fidelity for SDRP=0.575: 0.0218003
+(Sigmoid-adjusted) fidelity for SDRP=0.55: 0.00783638
+(Sigmoid-adjusted) fidelity for SDRP=0.525: 0.000862606
+(Sigmoid-adjusted) fidelity for SDRP=0.5: 0.0248074
+(Sigmoid-adjusted) fidelity for SDRP=0.475: 0.0496864
+(Sigmoid-adjusted) fidelity for SDRP=0.45: 0.0513127
+(Sigmoid-adjusted) fidelity for SDRP=0.425: 0.0136641
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1676224685
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_mirror
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5823
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5823: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
