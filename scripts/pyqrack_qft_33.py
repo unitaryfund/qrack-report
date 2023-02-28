@@ -2,7 +2,7 @@
 import time
 from pyqrack import QrackSimulator
 
-width = 10
+width = 33
 samples = 100
 
 def reverse_qrack(sim):
