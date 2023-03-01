@@ -2,7 +2,7 @@
 import time
 from pyqrack import QrackSimulator
 
-width = 33
+width = 30
 samples = 100
 
 def reverse_qrack(sim):
@@ -15,9 +15,11 @@ def reverse_qrack(sim):
 
 def bench_qrack(n):
     sim = QrackSimulator(n)
-    sim.h(0)
-    for i in range(n - 1):
-        sim.mcx([i], i + 1)
+    # Permutation basis eigenstate initialization before QFT is "trivial" for Qrack,
+    # so we give it a realistic case instead.
+    for i in range(n):
+        # Initialize with uniformly random single qubit gates, across full width.
+        sim.u(i, random.uniform(0, 4 * math.pi), random.uniform(0, 4 * math.pi), random.uniform(0, 4 * math.pi))
     start = time.perf_counter()
     qubits = [i for i in range(n)]
     sim.qft(qubits)
