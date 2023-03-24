@@ -34,7 +34,7 @@ def aer_qft(n, circuit):
 sim_backend = StatevectorSimulator(shots=1)
 sim_backend.set_options(precision='single')
 
-def bench_aer(num_qubits):
+def bench_0_aer(num_qubits):
     circ = QuantumCircuit(num_qubits, num_qubits)
     aer_qft(num_qubits, circ)
     reverse_aer(num_qubits, circ)
@@ -45,15 +45,37 @@ def bench_aer(num_qubits):
     result = job.result()
     return time.perf_counter() - start
 
-aer_results = {}
+aer_0_results = {}
 for n in range(low, high + 1):
     width_results = []
         
     # Run the benchmarks
     for i in range(samples):
-        width_results.append(bench_aer(n))
+        width_results.append(bench_0_aer(n))
 
-    aer_results[n] = sum(width_results) / samples
+    aer_0_results[n] = sum(width_results) / samples
 
-print(aer_results)
+print(aer_0_results)
 
+def bench_ghz_aer(num_qubits):
+    circ = QuantumCircuit(num_qubits, num_qubits)
+    aer_qft(num_qubits, circ)
+    reverse_aer(num_qubits, circ)
+    for j in range(num_qubits):
+        circ.measure(j, j)
+    start = time.perf_counter()
+    job = execute([circ], sim_backend)
+    result = job.result()
+    return time.perf_counter() - start
+
+aer_ghz_results = {}
+for n in range(low, high + 1):
+    width_results = []
+        
+    # Run the benchmarks
+    for i in range(samples):
+        width_results.append(bench_ghz_aer(n))
+
+    aer_ghz_results[n] = sum(width_results) / samples
+
+print(aer_ghz_results)

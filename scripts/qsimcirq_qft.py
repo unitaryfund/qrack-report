@@ -26,7 +26,7 @@ def cuquantum_qft(q):
 
     yield cirq.measure(*qreg)
 
-def bench_cuquantum(n):
+def bench_0_qsimcirq(n):
     qubits = cirq.LineQubit.range(n)
     qft = cirq.Circuit(cuquantum_qft(qubits))
     simulator = qsimcirq.QSimSimulator(qsimcirq.QSimOptions(gpu_mode=1))
@@ -35,14 +35,39 @@ def bench_cuquantum(n):
     simulator.run(qft, repetitions=1)
     return time.perf_counter() - start
 
-qsimcirq_results = {}
+qsimcirq_0_results = {}
 for n in range(low, high + 1):
     width_results = []
          
     # Run the benchmarks
     for i in range(samples):
-        width_results.append(bench_cuquantum(n))
+        width_results.append(bench_0_qsimcirq(n))
 
-    qsimcirq_results[n] = sum(width_results) / samples
+    qsimcirq_0_results[n] = sum(width_results) / samples
 
-print(qsimcirq_results)
+print(qsimcirq_0_results)
+
+def bench_ghz_qsimcirq(n):
+    qubits = cirq.LineQubit.range(n)
+    qft = cirq.Circuit(cirq.H(qubits[0]))
+    for i in range(1, n):
+        qft = qft + cirq.Circuit(cirq.CX(qubits[0], qubits[i]))
+    qft = qft + cirq.Circuit(cuquantum_qft(qubits))
+    simulator = qsimcirq.QSimSimulator(qsimcirq.QSimOptions(gpu_mode=1))
+
+    start = time.perf_counter()
+    simulator.run(qft, repetitions=1)
+    return time.perf_counter() - start
+
+qsimcirq_ghz_results = {}
+for n in range(low, high + 1):
+    width_results = []
+         
+    # Run the benchmarks
+    for i in range(samples):
+        width_results.append(bench_ghz_qsimcirq(n))
+
+    qsimcirq_ghz_results[n] = sum(width_results) / samples
+
+print(qsimcirq_ghz_results)
+
