@@ -18,17 +18,18 @@ def reverse_aer(num_qubits, circ):
         end -= 1
 
 # Implementation of the Quantum Fourier Transform
-def aer_qft(num_qubits, circ):
-    # Quantum Fourier Transform
-    for j in range(num_qubits):
-        for k in range(j):
-            circ.cp(math.pi/float(2**(j-k)), j, k)
-        circ.h(j)
-    reverse_aer(num_qubits, circ)
-    for j in range(num_qubits):
-        circ.measure(j, j)
+# (See https://qiskit.org/textbook/ch-algorithms/quantum-fourier-transform.html)
+def aer_qft(n, circuit):
+    if n == 0:
+        return circuit
+    n -= 1
 
-    return circ
+    circuit.h(n)
+    for qubit in range(n):
+        circuit.cp(math.pi/2**(n-qubit), qubit, n)
+
+    # Recursive QFT is very similiar to a ("classical") FFT
+    aer_qft(n, circuit)
 
 sim_backend = StatevectorSimulator(shots=1)
 sim_backend.set_options(precision='single')
@@ -36,6 +37,9 @@ sim_backend.set_options(precision='single')
 def bench_aer(num_qubits):
     circ = QuantumCircuit(num_qubits, num_qubits)
     aer_qft(num_qubits, circ)
+    reverse_aer(num_qubits, circ)
+    for j in range(num_qubits):
+        circ.measure(j, j)
     start = time.perf_counter()
     job = execute([circ], sim_backend)
     result = job.result()

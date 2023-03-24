@@ -12,10 +12,10 @@ samples = 10
 
 def cuquantum_qft(q):
     qreg = list(q)
-    for j in range(len(qreg)):
-        for k in range(j):
-            yield (cirq.CZ ** (2**(j-k)))(qreg[j], qreg[k])
+    for j in reversed(range(len(qreg))):
         yield cirq.H(qreg[j])
+        for k in range(j):
+            yield (cirq.CZ ** (2**(j-k)))(qreg[k], qreg[j])
 
     start = 0
     end = len(qreg) - 1
@@ -35,7 +35,7 @@ def bench_cuquantum(n):
     simulator.run(qft, repetitions=1)
     return time.perf_counter() - start
 
-cuquantum_results = {}
+qsimcirq_results = {}
 for n in range(low, high + 1):
     width_results = []
          
@@ -43,6 +43,6 @@ for n in range(low, high + 1):
     for i in range(samples):
         width_results.append(bench_cuquantum(n))
 
-    cuquantum_results[n] = sum(width_results) / samples
+    qsimcirq_results[n] = sum(width_results) / samples
 
-print(cuquantum_results)
+print(qsimcirq_results)
