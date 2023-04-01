@@ -1,0 +1,4838 @@
+Random Seed: 1680264353 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.10013e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.10012e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.10012e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.6246e-08
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 4.49517e-08
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 4.49514e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 3.41774e-08
+Execution time: 1s
+For SDRP=0.825: 
+Unitary fidelity: 3.41775e-08
+Execution time: 1s
+For SDRP=0.8: 
+Unitary fidelity: 2.69027e-07
+Execution time: 1s
+For SDRP=0.775: 
+Unitary fidelity: 7.0482e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 8.03486e-07
+Execution time: 1s
+For SDRP=0.725: 
+Unitary fidelity: 8.03486e-07
+Execution time: 1s
+Random Seed: 1680264715 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+Random Seed: 1680265076 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.38126e-09
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.38126e-09
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.38126e-09
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 2.74954e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.74954e-09
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 4.05052e-09
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 4.57464e-09
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 4.57466e-09
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 7.17595e-09
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 1.16103e-08
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 2.44325e-08
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 1.71249e-07
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 5.34493e-06
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 5.34496e-06
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 5.34496e-06
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 7.24099e-06
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 1.95002e-05
+Execution time: 0s
+For SDRP=0.575: 
+Unitary fidelity: 0.000173226
+Execution time: 1s
+For SDRP=0.55: 
+Unitary fidelity: 0.000348279
+Execution time: 0s
+Random Seed: 1680265406 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 7.14176e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 7.14176e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 7.14177e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 7.1418e-08
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 4.01196e-08
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 1.60119e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 3.07603e-07
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 8.68619e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 1.75746e-06
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 1.86801e-06
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 1.7219e-06
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 1.72189e-06
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 2.00271e-06
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 2.6897e-06
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 1.00422e-05
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 2.56133e-05
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 2.56133e-05
+Execution time: 0s
+For SDRP=0.575: 
+Unitary fidelity: 0.000160798
+Execution time: 0s
+For SDRP=0.55: 
+Unitary fidelity: 0.000254009
+Execution time: 0s
+For SDRP=0.525: 
+Unitary fidelity: 0.000664406
+Execution time: 0s
+For SDRP=0.5: 
+Unitary fidelity: 0.000679214
+Execution time: 0s
+For SDRP=0.475: 
+Unitary fidelity: 0.00375048
+Execution time: 0s
+For SDRP=0.45: 
+Unitary fidelity: 0.00393953
+Execution time: 0s
+For SDRP=0.425: 
+Unitary fidelity: 0.00524675
+Execution time: 0s
+For SDRP=0.4: 
+Unitary fidelity: 0.00909049
+Execution time: 0s
+Random Seed: 1680265740 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 5.78533e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 5.78533e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 5.78532e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 5.78533e-08
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 6.97846e-08
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 6.97843e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 1.69483e-07
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 1.76804e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 4.42604e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 4.42603e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 8.1034e-07
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 3.62469e-05
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 0.00010536
+Execution time: 2s
+For SDRP=0.675: 
+Unitary fidelity: 0.00010536
+Execution time: 2s
+For SDRP=0.65: 
+Unitary fidelity: 0.00010536
+Execution time: 2s
+For SDRP=0.625: 
+Unitary fidelity: 0.00010536
+Execution time: 2s
+Random Seed: 1680266098 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.088e-09
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.08796e-09
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.08797e-09
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.54838e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.49615e-09
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.49616e-09
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 1.98546e-09
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 1.98547e-09
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 2.19242e-08
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 2.79196e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 1.58969e-07
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 5.27617e-07
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 5.59534e-07
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 1.00683e-06
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 1.9545e-06
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 5.68949e-06
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 4.06612e-05
+Execution time: 0s
+Random Seed: 1680266462 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 5.6882e-12
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 4.25353e-11
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 4.25349e-11
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 7.78198e-11
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.53089e-10
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.96869e-10
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 7.98838e-10
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 6.19619e-10
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 1.79146e-09
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 5.51227e-09
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 9.59482e-09
+Execution time: 1s
+For SDRP=0.725: 
+Unitary fidelity: 6.70537e-08
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 1.02571e-07
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 1.56711e-07
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 2.18948e-05
+Execution time: 1s
+For SDRP=0.625: 
+Unitary fidelity: 4.71651e-05
+Execution time: 1s
+For SDRP=0.6: 
+Unitary fidelity: 5.36854e-05
+Execution time: 1s
+For SDRP=0.575: 
+Unitary fidelity: 5.49434e-05
+Execution time: 1s
+Random Seed: 1680266819 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 2.83315e-09
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 2.83312e-09
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 2.83314e-09
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 2.303e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 1.03221e-08
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.31166e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 2.43056e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 2.57774e-08
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 6.63689e-08
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 4.97316e-08
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 4.41605e-07
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 2.16239e-06
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 2.16239e-06
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 5.25037e-06
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 0.000168064
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 0.000164222
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 0.000337102
+Execution time: 0s
+For SDRP=0.575: 
+Unitary fidelity: 0.00080309
+Execution time: 0s
+For SDRP=0.55: 
+Unitary fidelity: 0.00230224
+Execution time: 0s
+For SDRP=0.525: 
+Unitary fidelity: 0.00466111
+Execution time: 0s
+For SDRP=0.5: 
+Unitary fidelity: 0.00940816
+Execution time: 0s
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1680266819
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_estimate
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5697
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5697: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1680266835 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.69472e-06
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.8432e-06
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.8432e-06
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 2.25493e-06
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.45516e-06
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.45516e-06
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 6.32281e-06
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 1.41133e-05
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 3.24893e-05
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 3.12145e-05
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 3.16951e-05
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 2.93407e-05
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 2.93405e-05
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 4.54504e-05
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 7.13923e-05
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 8.65114e-05
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 0.000151388
+Execution time: 0s
+For SDRP=0.575: 
+Unitary fidelity: 0.000236036
+Execution time: 0s
+For SDRP=0.55: 
+Unitary fidelity: 0.000353164
+Execution time: 0s
+Random Seed: 1680267182 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+Random Seed: 1680267544 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+Random Seed: 1680267907 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.84773e-09
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.84774e-09
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.84774e-09
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.06714e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 1.06714e-09
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 5.43325e-09
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 6.13012e-09
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 3.41767e-08
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 3.18386e-08
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 1.18965e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 6.53465e-08
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 5.03884e-07
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 3.56484e-06
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 2.24837e-06
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 3.5416e-06
+Execution time: 0s
+Random Seed: 1680268260 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.57964e-08
+Execution time: 1s
+For SDRP=0.975: 
+Unitary fidelity: 1.57963e-08
+Execution time: 1s
+For SDRP=0.95: 
+Unitary fidelity: 1.57963e-08
+Execution time: 1s
+For SDRP=0.925: 
+Unitary fidelity: 5.76236e-08
+Execution time: 1s
+For SDRP=0.9: 
+Unitary fidelity: 5.76238e-08
+Execution time: 1s
+For SDRP=0.875: 
+Unitary fidelity: 5.7624e-08
+Execution time: 1s
+For SDRP=0.85: 
+Unitary fidelity: 5.27142e-08
+Execution time: 1s
+For SDRP=0.825: 
+Unitary fidelity: 6.02761e-07
+Execution time: 1s
+For SDRP=0.8: 
+Unitary fidelity: 6.02761e-07
+Execution time: 1s
+Random Seed: 1680268619 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 4.69119e-09
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 4.69113e-09
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 4.03519e-09
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 4.0352e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 1.31505e-07
+Execution time: 1s
+For SDRP=0.875: 
+Unitary fidelity: 1.53466e-07
+Execution time: 1s
+For SDRP=0.85: 
+Unitary fidelity: 4.83783e-07
+Execution time: 1s
+For SDRP=0.825: 
+Unitary fidelity: 6.06118e-07
+Execution time: 1s
+For SDRP=0.8: 
+Unitary fidelity: 1.40802e-06
+Execution time: 1s
+For SDRP=0.775: 
+Unitary fidelity: 1.51812e-06
+Execution time: 1s
+For SDRP=0.75: 
+Unitary fidelity: 5.0182e-06
+Execution time: 2s
+For SDRP=0.725: 
+Unitary fidelity: 5.01821e-06
+Execution time: 2s
+For SDRP=0.7: 
+Unitary fidelity: 5.8056e-06
+Execution time: 2s
+For SDRP=0.675: 
+Unitary fidelity: 9.99605e-06
+Execution time: 2s
+For SDRP=0.65: 
+Unitary fidelity: 1.26555e-05
+Execution time: 2s
+Random Seed: 1680268987 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.36287e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.36284e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.36282e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.157e-08
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 3.15023e-08
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 1.30433e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 1.61949e-07
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 1.61949e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 1.61949e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 2.37253e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 2.72891e-07
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 7.48165e-06
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 1.24162e-05
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 1.6681e-05
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 0.000141673
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 0.000425736
+Execution time: 0s
+Random Seed: 1680269339 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+Random Seed: 1680269670 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.02727e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.02726e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.02727e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.02727e-08
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 1.02726e-08
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 3.05273e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 8.18579e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 1.45296e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 7.74316e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 8.86493e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 1.94048e-06
+Execution time: 0s
+Random Seed: 1680270014 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 7.21865e-11
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 7.21875e-11
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 7.21875e-11
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 2.85921e-10
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 6.13759e-10
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.04325e-10
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 7.70352e-10
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 1.05146e-09
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 2.34571e-09
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 2.7641e-08
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 1.35019e-08
+Execution time: 0s
+Random Seed: 1680270338 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.33324e-09
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.33334e-09
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 2.09513e-09
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 3.21838e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 3.72342e-09
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.42476e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 2.42481e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 4.46111e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 4.4611e-07
+Execution time: 0s
+Random Seed: 1680270676 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 3.45732e-09
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 3.82992e-09
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 5.69362e-09
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 5.69361e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 1.38892e-08
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 1.38891e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 3.61005e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 4.65157e-08
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 1.31778e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 1.99604e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 1.99604e-07
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 2.5071e-06
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 2.50711e-06
+Execution time: 0s
+Random Seed: 1680270994 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 4.90988e-11
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 4.90985e-11
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.59572e-10
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 3.69348e-10
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 3.69347e-10
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 1.23204e-09
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 3.83651e-09
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 3.83653e-09
+Execution time: 0s
+Random Seed: 1680271318 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 8.84173e-10
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 8.84159e-10
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 8.8417e-10
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.37356e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 9.00154e-09
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 1.60203e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 1.29037e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 2.74551e-08
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 5.74033e-08
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 8.57107e-08
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 2.8412e-07
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 4.68951e-07
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 3.7733e-06
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 2.05985e-05
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 9.05929e-05
+Execution time: 1s
+Random Seed: 1680271672 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 5.59422e-06
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 5.59428e-06
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 5.59416e-06
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 5.62637e-06
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 5.9488e-06
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 6.75488e-06
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 7.02639e-06
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 1.23123e-05
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 4.87028e-05
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 4.87022e-05
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 4.87028e-05
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 5.25667e-05
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 9.87651e-05
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 9.87634e-05
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 9.87641e-05
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 0.000171813
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 0.000396232
+Execution time: 0s
+For SDRP=0.575: 
+Unitary fidelity: 0.000426869
+Execution time: 0s
+For SDRP=0.55: 
+Unitary fidelity: 0.000499649
+Execution time: 0s
+For SDRP=0.525: 
+Unitary fidelity: 0.00124349
+Execution time: 0s
+For SDRP=0.5: 
+Unitary fidelity: 0.00395444
+Execution time: 0s
+For SDRP=0.475: 
+Unitary fidelity: 0.00877828
+Execution time: 0s
+For SDRP=0.45: 
+Unitary fidelity: 0.00933772
+Execution time: 0s
+For SDRP=0.425: 
+Unitary fidelity: 0.0191105
+Execution time: 0s
+For SDRP=0.4: 
+Unitary fidelity: 0.0244293
+Execution time: 0s
+For SDRP=0.375: 
+Unitary fidelity: 0.0376303
+Execution time: 0s
+For SDRP=0.35: 
+Unitary fidelity: 0.0596189
+Execution time: 1s
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1680271672
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_estimate
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5697
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5697: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1680271717 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.22307e-07
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 2.07154e-07
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 2.07154e-07
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 3.65656e-07
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 3.65657e-07
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 3.65654e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 4.13602e-07
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 5.16652e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 7.0417e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 7.642e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 3.90521e-06
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 3.57076e-06
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 9.60679e-06
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 3.05974e-05
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 3.05972e-05
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 3.65107e-05
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 0.000208197
+Execution time: 0s
+Random Seed: 1680272034 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 2.65675e-05
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 2.65677e-05
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 2.65676e-05
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 2.65676e-05
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.65677e-05
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.89726e-05
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 2.89726e-05
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 2.89725e-05
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 1.41986e-05
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 1.59776e-05
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 2.78423e-05
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 5.8309e-05
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 5.83091e-05
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 5.8309e-05
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 6.5715e-05
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 0.000226324
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 0.000493551
+Execution time: 0s
+For SDRP=0.575: 
+Unitary fidelity: 0.000773692
+Execution time: 1s
+For SDRP=0.55: 
+Unitary fidelity: 0.000940746
+Execution time: 0s
+For SDRP=0.525: 
+Unitary fidelity: 0.000940748
+Execution time: 0s
+For SDRP=0.5: 
+Unitary fidelity: 0.00233072
+Execution time: 0s
+For SDRP=0.475: 
+Unitary fidelity: 0.00465001
+Execution time: 0s
+For SDRP=0.45: 
+Unitary fidelity: 0.00654488
+Execution time: 0s
+For SDRP=0.425: 
+Unitary fidelity: 0.00654487
+Execution time: 0s
+For SDRP=0.4: 
+Unitary fidelity: 0.00975631
+Execution time: 0s
+Random Seed: 1680272404 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.43041e-07
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.4304e-07
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.4304e-07
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.43041e-07
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.01596e-07
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 3.22256e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 3.22257e-07
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 3.22255e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 1.34189e-06
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 1.27252e-06
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 3.67597e-06
+Execution time: 1s
+Random Seed: 1680272763 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.38411e-06
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.3841e-06
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.38411e-06
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.38411e-06
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 3.51128e-06
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 3.51129e-06
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 3.05314e-06
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 3.05313e-06
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 1.04906e-05
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 9.39696e-06
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 1.11922e-05
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 2.58896e-05
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 0.000108334
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 7.5248e-05
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 7.52484e-05
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 0.00036781
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 0.000583591
+Execution time: 0s
+For SDRP=0.575: 
+Unitary fidelity: 0.000563229
+Execution time: 0s
+For SDRP=0.55: 
+Unitary fidelity: 0.00258659
+Execution time: 0s
+For SDRP=0.525: 
+Unitary fidelity: 0.00567338
+Execution time: 0s
+For SDRP=0.5: 
+Unitary fidelity: 0.0100992
+Execution time: 0s
+For SDRP=0.475: 
+Unitary fidelity: 0.0106269
+Execution time: 0s
+For SDRP=0.45: 
+Unitary fidelity: 0.0106269
+Execution time: 0s
+For SDRP=0.425: 
+Unitary fidelity: 0.0262467
+Execution time: 0s
+For SDRP=0.4: 
+Unitary fidelity: 0.0392011
+Execution time: 0s
+For SDRP=0.375: 
+Unitary fidelity: 0.0392012
+Execution time: 0s
+For SDRP=0.35: 
+Unitary fidelity: 0.0469261
+Execution time: 0s
+For SDRP=0.325: 
+Unitary fidelity: 0.069725
+Execution time: 0s
+Random Seed: 1680273118 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 6.62854e-10
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 6.62852e-10
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 6.62846e-10
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 6.8113e-10
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 6.81126e-10
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.48302e-09
+Execution time: 0s
+Random Seed: 1680273460 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 4.46932e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 4.4694e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 4.91422e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 4.91422e-08
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 4.91426e-08
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 4.86231e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 4.67056e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 1.06091e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 1.55733e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 1.62838e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 1.08027e-07
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 1.08028e-07
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 8.14946e-07
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 4.34791e-06
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 3.11871e-05
+Execution time: 1s
+Random Seed: 1680273806 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 2.97633e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 2.97634e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 2.97632e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 3.56524e-08
+Execution time: 1s
+For SDRP=0.9: 
+Unitary fidelity: 3.56526e-08
+Execution time: 1s
+For SDRP=0.875: 
+Unitary fidelity: 3.56527e-08
+Execution time: 1s
+For SDRP=0.85: 
+Unitary fidelity: 8.22351e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 8.22343e-08
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 8.22345e-08
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 2.11957e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 7.16848e-07
+Execution time: 1s
+For SDRP=0.725: 
+Unitary fidelity: 1.42798e-06
+Execution time: 1s
+For SDRP=0.7: 
+Unitary fidelity: 2.96338e-06
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 1.01176e-05
+Execution time: 1s
+Random Seed: 1680274163 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 8.53249e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 8.53249e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 9.48379e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 9.48379e-08
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 9.48381e-08
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 1.28131e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 1.28132e-07
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 1.28131e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 1.43524e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 2.95834e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 6.28294e-07
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 6.18941e-06
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 3.25208e-05
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 3.25208e-05
+Execution time: 0s
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1680274163
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_estimate
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5697
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5697: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1680274514 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.15004e-07
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.15001e-07
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 5.20072e-07
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 2.17803e-07
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 1.29657e-06
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 1.29658e-06
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 9.40111e-07
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 9.40097e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 1.01363e-06
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 2.86996e-06
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 3.43669e-06
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 3.4164e-06
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 8.90805e-06
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 0.000103317
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 0.000103317
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 0.000701921
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 0.000701922
+Execution time: 0s
+For SDRP=0.575: 
+Unitary fidelity: 0.00134684
+Execution time: 0s
+For SDRP=0.55: 
+Unitary fidelity: 0.00193792
+Execution time: 0s
+For SDRP=0.525: 
+Unitary fidelity: 0.00193792
+Execution time: 0s
+For SDRP=0.5: 
+Unitary fidelity: 0.00193791
+Execution time: 0s
+For SDRP=0.475: 
+Unitary fidelity: 0.00547454
+Execution time: 1s
+For SDRP=0.45: 
+Unitary fidelity: 0.00698763
+Execution time: 1s
+For SDRP=0.425: 
+Unitary fidelity: 0.012774
+Execution time: 1s
+Random Seed: 1680274882 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 4.58333e-06
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 4.58335e-06
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 4.58333e-06
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 4.58333e-06
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 5.79876e-06
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 5.79872e-06
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 5.79871e-06
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 4.59999e-06
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 5.21623e-06
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 5.21624e-06
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 1.05757e-05
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 1.09897e-05
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 5.61651e-05
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 0.000116807
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 0.000193558
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 0.000395919
+Execution time: 3s
+Random Seed: 1680275224 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 9.08883e-10
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 9.08869e-10
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 9.08878e-10
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 2.06341e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.03649e-09
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 1.38225e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 5.9676e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 6.69638e-08
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 4.31163e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 2.54109e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 7.7935e-07
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 1.26588e-06
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 2.37264e-06
+Execution time: 0s
+Random Seed: 1680275552 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.29968e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.29966e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.29967e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 2.81347e-08
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.81349e-08
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.83256e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 6.96146e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 5.2191e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 3.30369e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 9.58074e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 2.10746e-06
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 9.64377e-06
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 9.64381e-06
+Execution time: 0s
+Random Seed: 1680275884 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 7.1675e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 7.16748e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 7.1675e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 2.48115e-07
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.48114e-07
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.48114e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 2.48114e-07
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 3.14243e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 2.45259e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 1.36152e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 2.69043e-07
+Execution time: 1s
+For SDRP=0.725: 
+Unitary fidelity: 1.90809e-06
+Execution time: 1s
+For SDRP=0.7: 
+Unitary fidelity: 6.78443e-06
+Execution time: 1s
+Random Seed: 1680276215 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.72658e-07
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 2.61622e-07
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 2.61623e-07
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 2.61623e-07
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.61621e-07
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 4.69653e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 3.13816e-06
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 3.13815e-06
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 7.02746e-06
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 1.03243e-05
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 1.71828e-05
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 1.68888e-05
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 2.20125e-05
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 2.20124e-05
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 1.87134e-05
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 6.10034e-05
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 0.000142732
+Execution time: 0s
+For SDRP=0.575: 
+Unitary fidelity: 0.000154778
+Execution time: 0s
+For SDRP=0.55: 
+Unitary fidelity: 0.0001797
+Execution time: 0s
+For SDRP=0.525: 
+Unitary fidelity: 0.000825626
+Execution time: 0s
+For SDRP=0.5: 
+Unitary fidelity: 0.00114554
+Execution time: 0s
+Random Seed: 1680276569 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 6.14662e-09
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 8.67241e-09
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 8.67249e-09
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.27989e-08
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 1.27989e-08
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 1.32426e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 4.65557e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 5.73321e-08
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 5.73322e-08
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 2.23343e-07
+Execution time: 0s
+Random Seed: 1680276906 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 2.41275e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 2.4126e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 2.41261e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.13546e-07
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.48981e-07
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.48979e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 2.37479e-06
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 4.11192e-06
+Execution time: 1s
+For SDRP=0.8: 
+Unitary fidelity: 4.1119e-06
+Execution time: 1s
+For SDRP=0.775: 
+Unitary fidelity: 8.58711e-06
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 1.79485e-05
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 3.51172e-05
+Execution time: 0s
+Random Seed: 1680277238 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.86278e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.86279e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.8628e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 8.28732e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 7.52794e-09
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 7.52801e-09
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 3.73274e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 8.34989e-08
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 8.34999e-08
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 7.44201e-08
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 7.44199e-08
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 3.90799e-07
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 1.522e-06
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 3.64399e-05
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 0.000394056
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 0.000295193
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 0.00150967
+Execution time: 0s
+For SDRP=0.575: 
+Unitary fidelity: 0.00321553
+Execution time: 0s
+For SDRP=0.55: 
+Unitary fidelity: 0.00704543
+Execution time: 0s
+For SDRP=0.525: 
+Unitary fidelity: 0.00704542
+Execution time: 0s
+For SDRP=0.5: 
+Unitary fidelity: 0.00704542
+Execution time: 0s
+For SDRP=0.475: 
+Unitary fidelity: 0.00984851
+Execution time: 0s
+For SDRP=0.45: 
+Unitary fidelity: 0.00984853
+Execution time: 0s
+Random Seed: 1680277599 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 5.40448e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 5.40447e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 5.40445e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.75351e-07
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 1.75351e-07
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 3.72717e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 3.91224e-07
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 5.20733e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 1.53439e-06
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 1.53439e-06
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 1.53439e-06
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 6.61858e-06
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 4.97339e-06
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 1.27278e-05
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 2.51586e-05
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 0.000232029
+Execution time: 2s
+Random Seed: 1680277964 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+Random Seed: 1680278327 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.4322e-10
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.43221e-10
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.43222e-10
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 5.32425e-10
+Execution time: 1s
+For SDRP=0.9: 
+Unitary fidelity: 1.49664e-09
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.50076e-09
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 2.5746e-09
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 8.63188e-09
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 1.34444e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 7.12414e-08
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 8.04165e-07
+Execution time: 1s
+Random Seed: 1680278670 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.36686e-10
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.36691e-10
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 3.36085e-10
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 5.63416e-10
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 1.86401e-10
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.60096e-10
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 1.11744e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 1.11744e-08
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 1.25945e-08
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 2.1004e-08
+Execution time: 0s
+Random Seed: 1680279008 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 4.7231e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 4.72286e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 4.72319e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 4.72285e-08
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 4.72308e-08
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 3.53223e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 3.53222e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 3.53225e-08
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 9.15647e-08
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 5.36464e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 6.9143e-07
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 1.84866e-06
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 3.42751e-06
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 6.48882e-06
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 9.82891e-06
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 5.42946e-05
+Execution time: 0s
+Random Seed: 1680279352 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 3.31952e-09
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 3.31957e-09
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 2.28818e-09
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 2.52439e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.52437e-09
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 1.07805e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 1.21602e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 1.21602e-08
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 2.19463e-08
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 5.47544e-08
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 3.3069e-08
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 1.70376e-07
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 8.63318e-07
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 1.99073e-05
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 8.24866e-05
+Execution time: 3s
+Random Seed: 1680279687 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 8.80157e-09
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 8.80153e-09
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 9.15209e-09
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 9.15208e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 9.15212e-09
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.67074e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 2.67076e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 6.29168e-08
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 1.67164e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 4.15245e-07
+Execution time: 1s
+For SDRP=0.75: 
+Unitary fidelity: 4.15243e-07
+Execution time: 1s
+For SDRP=0.725: 
+Unitary fidelity: 1.00762e-06
+Execution time: 1s
+Random Seed: 1680280046 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 9.25286e-09
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 9.25314e-09
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 9.25354e-09
+Execution time: 0s
+Random Seed: 1680280366 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.27099e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.27099e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.27097e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.27099e-08
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.37348e-08
+Execution time: 0s
+Random Seed: 1680280690 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 2.85634e-10
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 2.85632e-10
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 2.85634e-10
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.26839e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 1.2684e-09
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 1.2684e-09
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 1.34382e-08
+Execution time: 1s
+For SDRP=0.825: 
+Unitary fidelity: 3.41073e-08
+Execution time: 1s
+Random Seed: 1680281037 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 8.11722e-09
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 8.11711e-09
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 8.1171e-09
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.6617e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 8.24725e-09
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.00395e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 2.74514e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 5.82681e-08
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 7.09899e-08
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 1.506e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 1.9533e-07
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 2.2449e-07
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 6.64871e-07
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 2.40125e-05
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 4.65523e-05
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 0.00012119
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 0.000255859
+Execution time: 1s
+For SDRP=0.575: 
+Unitary fidelity: 0.000685258
+Execution time: 1s
+For SDRP=0.55: 
+Unitary fidelity: 0.00104444
+Execution time: 1s
+For SDRP=0.525: 
+Unitary fidelity: 0.00104444
+Execution time: 1s
+Random Seed: 1680281369 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 7.81456e-07
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 7.81445e-07
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 8.22345e-07
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 8.2235e-07
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 7.25706e-07
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 7.25703e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 7.25707e-07
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 7.25696e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 1.75278e-06
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 1.16371e-06
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 3.92514e-06
+Execution time: 1s
+Random Seed: 1680281701 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.18212e-09
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.18209e-09
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 2.86829e-09
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 2.86822e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.86825e-09
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.92493e-09
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 2.39627e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 4.21278e-08
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 4.21277e-08
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 5.84936e-08
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 8.39872e-07
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 1.4713e-06
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 7.94612e-06
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 4.76441e-05
+Execution time: 1s
+For SDRP=0.65: 
+Unitary fidelity: 7.11137e-05
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 0.000299563
+Execution time: 2s
+For SDRP=0.6: 
+Unitary fidelity: 0.00108586
+Execution time: 4s
+Random Seed: 1680282040 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+Random Seed: 1680282363 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+Random Seed: 1680282696 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+Random Seed: 1680283020 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 8.1427e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 8.14277e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 8.14267e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 8.14267e-08
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.30363e-07
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.30363e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 3.6658e-07
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 3.80283e-06
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 4.26217e-06
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 1.1086e-05
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 1.1086e-05
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 1.89354e-05
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 1.55144e-05
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 4.85875e-05
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 4.14884e-05
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 0.000114525
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 0.000197911
+Execution time: 0s
+For SDRP=0.575: 
+Unitary fidelity: 0.00075992
+Execution time: 0s
+For SDRP=0.55: 
+Unitary fidelity: 0.00228427
+Execution time: 0s
+For SDRP=0.525: 
+Unitary fidelity: 0.00476238
+Execution time: 0s
+For SDRP=0.5: 
+Unitary fidelity: 0.00674943
+Execution time: 0s
+For SDRP=0.475: 
+Unitary fidelity: 0.0131599
+Execution time: 0s
+For SDRP=0.45: 
+Unitary fidelity: 0.0180079
+Execution time: 0s
+For SDRP=0.425: 
+Unitary fidelity: 0.01932
+Execution time: 0s
+For SDRP=0.4: 
+Unitary fidelity: 0.01932
+Execution time: 0s
+For SDRP=0.375: 
+Unitary fidelity: 0.0487389
+Execution time: 0s
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1680283020
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_estimate
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5697
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5697: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1680283043 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+Random Seed: 1680283380 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1680283380
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_estimate
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5697
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5697: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1680283463 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.85904e-07
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 2.014e-07
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 2.014e-07
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 2.014e-07
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.01399e-07
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.27885e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 2.27886e-07
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 2.27885e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 2.55077e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 3.40025e-06
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 3.40024e-06
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 3.40024e-06
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 2.74898e-06
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 3.02611e-06
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 1.69951e-05
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 1.73644e-05
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 2.51926e-05
+Execution time: 0s
+For SDRP=0.575: 
+Unitary fidelity: 8.17987e-05
+Execution time: 0s
+Random Seed: 1680283808 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+Random Seed: 1680284142 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+Random Seed: 1680284519 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 7.93629e-07
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 7.93634e-07
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 7.93631e-07
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 7.93626e-07
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 1.59176e-06
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.40994e-06
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 2.40994e-06
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 1.32089e-06
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 1.66585e-06
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 5.59211e-06
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 5.59212e-06
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 4.41987e-06
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 1.46117e-05
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 4.8685e-05
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 5.70383e-05
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 6.54094e-05
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 6.85778e-05
+Execution time: 1s
+Random Seed: 1680284773 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 2.14196e-09
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 2.14195e-09
+Execution time: 0s
+Random Seed: 1680285117 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 8.44446e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 8.44683e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 8.44679e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.83499e-07
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 9.15332e-07
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 9.15343e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 1.46787e-06
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 3.12876e-06
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 3.12879e-06
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 1.48894e-05
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 1.48893e-05
+Execution time: 0s
+Random Seed: 1680285440 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 2.15053e-10
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 2.15045e-10
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.51072e-09
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.51073e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 1.27605e-08
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 1.27605e-08
+Execution time: 0s
+Random Seed: 1680285780 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 5.10375e-10
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 5.10385e-10
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 2.94008e-09
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 2.94004e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 6.95775e-08
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 8.47149e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 9.57202e-07
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 2.38721e-06
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 2.38722e-06
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 4.75676e-06
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 4.75676e-06
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 1.65378e-06
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 8.85594e-06
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 1.26292e-05
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 3.88444e-05
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 0.000329928
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 0.000561887
+Execution time: 0s
+For SDRP=0.575: 
+Unitary fidelity: 0.000244439
+Execution time: 0s
+For SDRP=0.55: 
+Unitary fidelity: 0.00038409
+Execution time: 0s
+Random Seed: 1680286133 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 4.55067e-11
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 4.5507e-11
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 4.55072e-11
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 3.57254e-10
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 5.09065e-10
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 9.78082e-10
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 6.33114e-09
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 1.57956e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 1.49205e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 6.10938e-07
+Execution time: 0s
+Random Seed: 1680286380 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 3.18623e-09
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 3.1863e-09
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 3.18625e-09
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 3.18626e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 3.18625e-09
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 3.54005e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 4.14022e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 4.14025e-08
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 9.45108e-08
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 1.66448e-07
+Execution time: 1s
+Random Seed: 1680286753 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 2.92461e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 2.92462e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 2.92461e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 2.9246e-08
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 4.5516e-08
+Execution time: 1s
+For SDRP=0.875: 
+Unitary fidelity: 6.07615e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 6.07613e-07
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 6.76279e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 6.76279e-07
+Execution time: 0s
+Random Seed: 1680287073 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.54805e-09
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.54807e-09
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 8.19557e-10
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.29491e-08
+Execution time: 1s
+Random Seed: 1680287413 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 6.62084e-10
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 6.62046e-10
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 2.08576e-09
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 2.08577e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.08581e-09
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.32504e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 2.32504e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 2.32507e-08
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 6.24903e-08
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 7.9327e-08
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 9.55683e-08
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 2.02694e-07
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 4.7564e-07
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 3.1366e-06
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 2.4761e-06
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 1.30658e-05
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 4.44241e-05
+Execution time: 0s
+Random Seed: 1680287741 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.01603e-07
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.01602e-07
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 5.06212e-07
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 5.06211e-07
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 5.06211e-07
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 5.06211e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 1.36057e-06
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 1.36056e-06
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 1.36056e-06
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 1.36056e-06
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 1.77945e-06
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 5.48448e-06
+Execution time: 1s
+For SDRP=0.7: 
+Unitary fidelity: 5.45126e-06
+Execution time: 1s
+Random Seed: 1680288083 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 4.41131e-07
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 4.41131e-07
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 4.4113e-07
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 4.41131e-07
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 4.41129e-07
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 4.41129e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 8.23275e-07
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 8.23271e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 5.70081e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 5.70083e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 5.70081e-07
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 9.68869e-07
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 9.68864e-07
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 9.68866e-07
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 2.13971e-06
+Execution time: 1s
+Random Seed: 1680288419 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 4.07596e-10
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 4.07595e-10
+Execution time: 0s
+Random Seed: 1680288746 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 2.55805e-07
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 2.55807e-07
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 2.55805e-07
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 2.55805e-07
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.55806e-07
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 8.87243e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 2.0961e-06
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 2.09609e-06
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 3.11458e-06
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 2.88055e-06
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 3.00412e-06
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 5.92574e-06
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 5.92575e-06
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 1.53789e-05
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 1.73021e-05
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 3.73516e-05
+Execution time: 1s
+For SDRP=0.6: 
+Unitary fidelity: 3.73518e-05
+Execution time: 1s
+For SDRP=0.575: 
+Unitary fidelity: 5.05931e-05
+Execution time: 1s
+Random Seed: 1680289109 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 2.64472e-09
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 2.64475e-09
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 2.64474e-09
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 6.65539e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.23653e-08
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.23653e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 2.88727e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 2.88728e-08
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 1.53171e-08
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 1.20021e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 1.67229e-07
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 1.67228e-07
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 1.7112e-06
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 2.75709e-06
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 4.74121e-06
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 5.56816e-06
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 2.50913e-05
+Execution time: 0s
+For SDRP=0.575: 
+Unitary fidelity: 0.00025103
+Execution time: 0s
+For SDRP=0.55: 
+Unitary fidelity: 0.00110367
+Execution time: 0s
+For SDRP=0.525: 
+Unitary fidelity: 0.00172866
+Execution time: 1s
+Random Seed: 1680289352 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.78848e-07
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.78849e-07
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 2.12859e-07
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 2.21483e-07
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.21485e-07
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.50641e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 5.0959e-07
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 5.09592e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 5.71798e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 3.11634e-06
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 3.11635e-06
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 4.00124e-06
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 4.03954e-06
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 1.19702e-05
+Execution time: 0s
+Random Seed: 1680289714 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 2.39211e-07
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 2.39209e-07
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 2.19711e-07
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 8.33654e-07
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 1.43132e-06
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 9.21658e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 1.107e-06
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 2.47237e-06
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 2.47236e-06
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 5.3686e-06
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 8.26351e-06
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 1.33426e-05
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 1.85433e-05
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 2.68595e-05
+Execution time: 1s
+For SDRP=0.65: 
+Unitary fidelity: 0.000108217
+Execution time: 1s
+Random Seed: 1680290064 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 2.06676e-09
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 2.06675e-09
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 2.06675e-09
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 3.93861e-10
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 9.84675e-10
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 3.63634e-10
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 4.76247e-10
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 6.68779e-09
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 4.61498e-08
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 2.0645e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 9.37874e-07
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 8.36658e-07
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 8.36661e-07
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 1.08909e-06
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 2.0915e-06
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 9.34373e-06
+Execution time: 0s
+Random Seed: 1680290377 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.92821e-07
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.92822e-07
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.92821e-07
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 2.24306e-07
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 5.3842e-07
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 4.68045e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 5.41324e-07
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 5.41326e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 8.29582e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 8.29579e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 8.29579e-07
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 8.29578e-07
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 8.29581e-07
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 5.71478e-06
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 1.9021e-05
+Execution time: 1s
+Random Seed: 1680290791 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.89465e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.89465e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.89464e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.89464e-08
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 1.124e-08
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 1.27263e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 2.22664e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 3.07552e-08
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 3.07564e-08
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 2.36517e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 2.06737e-07
+Execution time: 1s
+Random Seed: 1680291121 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.1702e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.1189e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.1189e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.44922e-08
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 1.44922e-08
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 3.51293e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 3.97e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 8.26692e-08
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 2.40313e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 5.44162e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 1.81254e-07
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 1.29038e-06
+Execution time: 1s
+Random Seed: 1680291464 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 4.00501e-07
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 4.00501e-07
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 4.00501e-07
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 4.00501e-07
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 4.005e-07
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 4.00503e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 4.00501e-07
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 4.00501e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 5.5518e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 5.55181e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 1.11515e-06
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 9.13882e-07
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 2.36031e-05
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 0.000130499
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 0.000130499
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 0.000130499
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 0.000337551
+Execution time: 0s
+For SDRP=0.575: 
+Unitary fidelity: 0.000886925
+Execution time: 0s
+For SDRP=0.55: 
+Unitary fidelity: 0.000684294
+Execution time: 0s
+For SDRP=0.525: 
+Unitary fidelity: 0.000684294
+Execution time: 0s
+For SDRP=0.5: 
+Unitary fidelity: 0.00281217
+Execution time: 0s
+For SDRP=0.475: 
+Unitary fidelity: 0.00547809
+Execution time: 0s
+For SDRP=0.45: 
+Unitary fidelity: 0.0114215
+Execution time: 0s
+For SDRP=0.425: 
+Unitary fidelity: 0.0196763
+Execution time: 0s
+For SDRP=0.4: 
+Unitary fidelity: 0.029274
+Execution time: 0s
+For SDRP=0.375: 
+Unitary fidelity: 0.0845806
+Execution time: 0s
+For SDRP=0.35: 
+Unitary fidelity: 0.0888307
+Execution time: 0s
+For SDRP=0.325: 
+Unitary fidelity: 0.207416
+Execution time: 0s
+For SDRP=0.3: 
+Unitary fidelity: 0.249668
+Execution time: 0s
+For SDRP=0.275: 
+Unitary fidelity: 0.305044
+Execution time: 0s
+For SDRP=0.25: 
+Unitary fidelity: 0.41618
+Execution time: 0s
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1680291464
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_estimate
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5697
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5697: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1680291569 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 7.83004e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 8.44914e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 4.50328e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 4.5033e-08
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 4.50328e-08
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 4.50332e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 4.5033e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 1.75796e-06
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 1.75796e-06
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 1.75796e-06
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 6.04463e-06
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 1.02695e-05
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 1.02695e-05
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 9.32348e-06
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 1.83919e-05
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 2.71127e-05
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 6.64947e-05
+Execution time: 0s
+For SDRP=0.575: 
+Unitary fidelity: 0.000195026
+Execution time: 0s
+For SDRP=0.55: 
+Unitary fidelity: 0.000571639
+Execution time: 0s
+For SDRP=0.525: 
+Unitary fidelity: 0.00319061
+Execution time: 2s
+Random Seed: 1680291912 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 2.30631e-07
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 2.30627e-07
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 2.30628e-07
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 2.30628e-07
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 1.16403e-07
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.0235e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 3.69136e-07
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 3.69133e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 3.6915e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 8.16575e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 8.16575e-07
+Execution time: 0s
+Random Seed: 1680292249 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+Random Seed: 1680292611 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.10256e-07
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.1753e-07
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.17531e-07
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.17531e-07
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.56898e-07
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 3.03564e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 5.32471e-07
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 2.7836e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 2.7836e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 6.20899e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 1.00369e-05
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 1.00368e-05
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 2.08219e-05
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 2.43281e-06
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 2.68402e-05
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 0.000103315
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 0.000247415
+Execution time: 1s
+Random Seed: 1680292975 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+Random Seed: 1680293325 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 9.1336e-09
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 9.13359e-09
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 9.13355e-09
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 9.13358e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.50041e-08
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.50043e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 2.5004e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 2.4618e-08
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 1.22997e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 8.46717e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 2.99307e-06
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 6.18586e-06
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 2.7052e-05
+Execution time: 0s
+Random Seed: 1680293669 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.01614e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.17073e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.17079e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 9.27025e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 9.26973e-09
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 9.2693e-09
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 7.75638e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 1.01063e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 4.60075e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 4.60079e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 2.76039e-06
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 4.75427e-06
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 4.14665e-05
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 7.55671e-05
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 7.5567e-05
+Execution time: 0s
+Random Seed: 1680294030 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 2.38285e-07
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 2.38285e-07
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 2.38285e-07
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 2.38284e-07
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.90133e-07
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 1.94307e-07
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 1.50262e-07
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 1.50263e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 2.66869e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 2.66871e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 2.6687e-07
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 6.14804e-07
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 6.14804e-07
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 1.13435e-06
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 2.10651e-06
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 1.99646e-06
+Execution time: 1s
+Random Seed: 1680294359 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+Random Seed: 1680294719 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+Random Seed: 1680295079 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.29482e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.29482e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.29482e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.48035e-08
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 1.48035e-08
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.48239e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 1.77761e-07
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 1.32665e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 2.98698e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 1.08435e-06
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 6.10373e-06
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 6.10374e-06
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 6.24415e-06
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 6.24413e-06
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 2.89149e-05
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 0.000196761
+Execution time: 2s
+Random Seed: 1680295444 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.94899e-11
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.94937e-11
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 5.11814e-11
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.34054e-10
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 1.34051e-10
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 1.33735e-10
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 7.60779e-10
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 1.8628e-08
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 7.12723e-08
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 4.50591e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 9.16113e-07
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 1.66133e-06
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 3.25743e-06
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 4.51894e-06
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 9.37922e-05
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 0.000177765
+Execution time: 0s
+Random Seed: 1680295807 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 1.30244e-08
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.30244e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.79058e-08
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.79057e-08
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 2.04166e-08
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.04165e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 2.04164e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 1.45471e-07
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 4.52157e-07
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 3.26969e-07
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 3.631e-07
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 7.08657e-07
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 1.65054e-06
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 1.65054e-06
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 4.09113e-06
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 1.76454e-05
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 3.16406e-05
+Execution time: 0s
+For SDRP=0.575: 
+Unitary fidelity: 0.000162389
+Execution time: 0s
+For SDRP=0.55: 
+Unitary fidelity: 0.000611985
+Execution time: 0s
+For SDRP=0.525: 
+Unitary fidelity: 0.00115624
+Execution time: 0s
+For SDRP=0.5: 
+Unitary fidelity: 0.00288003
+Execution time: 0s
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+benchmarks is a Catch v2.13.7 host application.
+Run with -? for options
+
+Randomness seeded to: 1680295807
+
+-------------------------------------------------------------------------------
+test_noisy_fidelity_2qb_nn_estimate
+-------------------------------------------------------------------------------
+/home/paperspace/qrack/test/benchmarks.cpp:5697
+...............................................................................
+
+/home/paperspace/qrack/test/benchmarks.cpp:5697: FAILED:
+due to unexpected exception with message:
+  Cannot instantiate a QPager with greater capacity than environment variable
+  QRACK_MAX_PAGING_QB.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+Random Seed: 1680296160 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+Random Seed: 1680296498 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 3.80696e-09
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.41258e-08
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 2.68471e-07
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 2.6847e-07
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 8.9436e-07
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 2.34183e-06
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 1.46805e-06
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 1.46805e-06
+Execution time: 0s
+For SDRP=0.8: 
+Unitary fidelity: 1.81208e-06
+Execution time: 0s
+For SDRP=0.775: 
+Unitary fidelity: 3.35068e-06
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 3.94007e-06
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 3.94007e-06
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 1.27427e-05
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 2.78972e-05
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 3.60028e-05
+Execution time: 0s
+For SDRP=0.625: 
+Unitary fidelity: 7.25656e-05
+Execution time: 0s
+For SDRP=0.6: 
+Unitary fidelity: 0.000104508
+Execution time: 0s
+For SDRP=0.575: 
+Unitary fidelity: 0.000128168
+Execution time: 0s
+For SDRP=0.55: 
+Unitary fidelity: 0.000449368
+Execution time: 0s
+For SDRP=0.525: 
+Unitary fidelity: 0.00118293
+Execution time: 0s
+For SDRP=0.5: 
+Unitary fidelity: 0.00118293
+Execution time: 0s
+For SDRP=0.475: 
+Unitary fidelity: 0.00530752
+Execution time: 1s
+Random Seed: 1680296832 (Overridden by hardware generation!)
+Device #0, Loaded binary from: /home/paperspace/.qrack/qrack_ocl_dev_NVIDIA_A100-SXM4-80GB.ir
+Default platform: NVIDIA CUDA
+Default device: #0, NVIDIA A100-SXM4-80GB
+OpenCL device #0: NVIDIA A100-SXM4-80GB
+############ Default Optimal (QUnit) ############
+Filters: test_noisy_fidelity_2qb_nn_estimate
+>>> 'test_noisy_fidelity_2qb_nn_estimate':
+Circuit width: 54
+Circuit layer depth (excluding factor of x2 for mirror validation): 8
+For SDRP=1: 
+Unitary fidelity: 2.78028e-09
+Execution time: 0s
+For SDRP=0.975: 
+Unitary fidelity: 1.12221e-09
+Execution time: 0s
+For SDRP=0.95: 
+Unitary fidelity: 1.12213e-09
+Execution time: 0s
+For SDRP=0.925: 
+Unitary fidelity: 1.12219e-09
+Execution time: 0s
+For SDRP=0.9: 
+Unitary fidelity: 5.35617e-09
+Execution time: 0s
+For SDRP=0.875: 
+Unitary fidelity: 6.2242e-08
+Execution time: 0s
+For SDRP=0.85: 
+Unitary fidelity: 6.22421e-08
+Execution time: 0s
+For SDRP=0.825: 
+Unitary fidelity: 1.62134e-07
+Execution time: 1s
+For SDRP=0.8: 
+Unitary fidelity: 1.62134e-07
+Execution time: 1s
+For SDRP=0.775: 
+Unitary fidelity: 7.89764e-08
+Execution time: 0s
+For SDRP=0.75: 
+Unitary fidelity: 5.04053e-08
+Execution time: 0s
+For SDRP=0.725: 
+Unitary fidelity: 1.34393e-07
+Execution time: 0s
+For SDRP=0.7: 
+Unitary fidelity: 1.09032e-07
+Execution time: 0s
+For SDRP=0.675: 
+Unitary fidelity: 2.99304e-07
+Execution time: 0s
+For SDRP=0.65: 
+Unitary fidelity: 1.84653e-06
+Execution time: 1s
